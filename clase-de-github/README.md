@@ -22,7 +22,7 @@ git init
 
 touch README
 
-git add README
+git add README // comentario
 
 git commit -m "tu primer commit"
 
